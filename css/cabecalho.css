@@ -6,7 +6,7 @@
 
 .cabecalho__li{
     display: inline-block;
-   margin: 0 1%;
+    margin: 0 1%;
 }
 
 .cabecalho__a{
@@ -15,13 +15,13 @@
     padding: 4%;
     width: 9vw;
     text-align: center;
-    border: 1px solid #000;
+    border: 1px solid #000000;
 }
 
 /*PSEUDO CLASSE*/
 
 .cabecalho__a:hover{
-    background-color: #000;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
     border: 1px solid #fff;
 }
